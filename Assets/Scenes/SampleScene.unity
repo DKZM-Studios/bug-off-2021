@@ -4983,6 +4983,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &113040995
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5161,6 +5162,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &234160566
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5277,6 +5279,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &274336785
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5504,6 +5507,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &415097792
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5704,6 +5708,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &809298899
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5820,6 +5825,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &840903537
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5936,6 +5942,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &973107460
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6052,6 +6059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1029734787
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6168,6 +6176,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1066219756
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6365,6 +6374,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1187390623
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6512,6 +6522,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1297599994
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6628,6 +6639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1325986794
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7082,6 +7094,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1851532706
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7198,6 +7211,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1946298719
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7314,6 +7328,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
 --- !u!58 &1970770744
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7609,3 +7624,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveHeight: 2
   waveSpeed: 5
+  rotationSpeed: 100
